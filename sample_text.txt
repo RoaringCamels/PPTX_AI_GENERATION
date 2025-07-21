@@ -1,0 +1,45 @@
+Professor: Good morning, everyone. Today we're going to dive into Newton's Second Law of Motion. Can anyone remind us what that is?
+
+Student 1: Is it the one that says force equals mass times acceleration?
+
+Professor: Exactly, F = ma. Great start, Jamie. Now, imagine you're pushing a box across the floor. What would happen if you doubled the mass?
+
+Student 2: Uh... the force would be... doubled?
+
+Professor: Close, Alex. Actually, if you keep the force the same, the acceleration would be halved. Can someone explain why?
+
+Student 3: Because the mass is bigger so it resists the force more?
+
+Professor: That's right, Taylor. Mass is a measure of inertia. Now, slide 4 shows a graph of force versus acceleration. What kind of relationship do we see here?
+
+[Silence]
+
+Professor: Okay, take a moment to think. Is it linear or nonlinear?
+
+Student 4: Linear?
+
+Professor: Yes! Linear — because force and acceleration are directly proportional if mass is constant. Excellent. Let’s go to slide 5.
+
+Student 2: Wait, I don’t get how friction plays into this. Like, isn’t that also a force?
+
+Professor: Good question. Friction is a force opposing motion. We’ll address that more in the next section, but yes, it does affect the net force. Hold that thought.
+
+[Slides advance]
+
+Professor: Here, we simulate two carts with different masses. Watch what happens when we apply the same force to both.
+
+Student 5: So the lighter cart goes faster?
+
+Professor: Yes — and by how much depends on the ratio of their masses. Look at slide 7.
+
+Student 1: Is that why cars with more weight take longer to speed up?
+
+Professor: Exactly. You’re applying Newton’s Second Law every time you drive. Let’s pause here. Any last questions before we move to the worksheet?
+
+Student 3: Can we go over the units again? I missed that part.
+
+Professor: Sure. Force is in newtons, which is kilograms times meters per second squared. Write that down if you haven’t already.
+
+Student 4: Got it, thanks.
+
+Professor: Alright, open the worksheet and try question 1. I’ll come around to help.
